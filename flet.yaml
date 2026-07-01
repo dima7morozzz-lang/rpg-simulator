@@ -1,0 +1,8 @@
+app:
+  name: "RPG Heist Simulator"
+  package: "com.yourname.rpgheist"
+  version: "1.0.0"
+  main: "main.py"
+
+android:
+  icon: "assets/icon.png"
